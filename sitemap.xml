@@ -1,76 +1,57 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <!-- Home Page -->
   <url>
-    <loc>https://madhunimmo.github.io/?sub=PL,SE</loc>
+    <loc>https://madhunimmo.github.io/plse-deadlines/?sub=PL,SE</loc>
     <lastmod>2023-12-15T04:42:28+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
-
-  <!-- ISSTA 2024 -->
   <url>
-    <loc>https://yourwebsite.com/issta-2024</loc>
+    <loc>https://madhunimmo.github.io/plse-deadlines/issta-2024</loc>
     <lastmod>2023-12-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
-  <!-- ECOOP 2024 -->
   <url>
-    <loc>https://yourwebsite.com/ecoop-2024</loc>
+    <loc>https://madhunimmo.github.io/plse-deadlines/ecoop-2024</loc>
     <lastmod>2024-01-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
-  <!-- SPLASH 2024 -->
   <url>
-    <loc>https://yourwebsite.com/splash-2024</loc>
+    <loc>https://madhunimmo.github.io/plse-deadlines/splash-2024</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
-  <!-- ASE 2024 -->
   <url>
-    <loc>https://yourwebsite.com/ase-2024</loc>
+    <loc>https://madhunimmo.github.io/plse-deadlines/ase-2024</loc>
     <lastmod>2024-06-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
-  <!-- POPL 2024 -->
   <url>
-    <loc>https://yourwebsite.com/popl-2024</loc>
+    <loc>https://madhunimmo.github.io/plse-deadlines/popl-2024</loc>
     <lastmod>2023-07-11T03:59:59+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
-  <!-- ICSE 2024 -->
   <url>
-    <loc>https://yourwebsite.com/icse-2024</loc>
+    <loc>https://madhunimmo.github.io/plse-deadlines/icse-2024</loc>
     <lastmod>2023-08-01T03:59:59+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
-  <!-- FSE 2024 -->
   <url>
-    <loc>https://yourwebsite.com/fse-2024</loc>
+    <loc>https://madhunimmo.github.io/plse-deadlines/fse-2024</loc>
     <lastmod>2023-09-28T20:59:59+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
-  <!-- PLDI 2024 -->
   <url>
-    <loc>https://yourwebsite.com/pldi-2024</loc>
+    <loc>https://madhunimmo.github.io/plse-deadlines/pldi-2024</loc>
     <lastmod>2023-11-16T03:59:59+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
 </urlset>
