@@ -1,4 +1,4 @@
-## PL/SE Deadlines
+## PL SE conference deadlines
 
 Countdown timers to keep track of a bunch of Programming Language and Software Engineering conference deadlines.
 
