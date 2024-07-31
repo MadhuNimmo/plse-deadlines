@@ -31,8 +31,7 @@ for conf in conferences:
         if conf_month:
             # Calculate the next month considering year rollover
             next_month = (conf_month % 12) + 1
-            # Use the same year unless it rolls over to January
-            next_month_year = current_year if conf_month < 12 else current_year + 1
+            next_month_year = current_year if next_month > conf_month else current_year + 1
 
             # Determine if the conference is in the past
             if (current_year > next_month_year) or (current_year == next_month_year and current_month > next_month):
@@ -42,8 +41,8 @@ for conf in conferences:
     # Add the conference if it hasn't been skipped
     filtered_conferences.append(conf)
 
-# Write the filtered list back to the YAML file
-with open('_data/conferences_filtered.yml', 'w') as file:
+# Write the filtered list back to the same YAML file
+with open('_data/conferences.yml', 'w') as file:
     yaml.dump(filtered_conferences, file)
 
 # Print the titles of conferences that were deleted
