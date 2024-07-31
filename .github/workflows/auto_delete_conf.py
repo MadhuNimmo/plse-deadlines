@@ -20,8 +20,10 @@ def get_month(date_str):
     except ValueError:
         return None
 
-# Filter out conferences that are past the current and the next month
+# Lists to track filtered and deleted conferences
 filtered_conferences = []
+deleted_conferences = []  # Store names of conferences that are removed
+
 for conf in conferences:
     conf_date = conf.get('date', '--')
     if conf_date != "--":
@@ -33,6 +35,7 @@ for conf in conferences:
 
             # Determine if the conference is in the past
             if (current_year > next_month_year) or (current_year == next_month_year and current_month > next_month):
+                deleted_conferences.append(conf['title'])  # Log the deleted conference
                 continue  # Skip adding this conference to the list
 
     # Add the conference if it hasn't been skipped
@@ -41,3 +44,8 @@ for conf in conferences:
 # Write the filtered list back to the YAML file
 with open('_data/conferences_filtered.yml', 'w') as file:
     yaml.dump(filtered_conferences, file)
+
+# Print the titles of conferences that were deleted
+print("Deleted conferences:")
+for title in deleted_conferences:
+    print(title)
