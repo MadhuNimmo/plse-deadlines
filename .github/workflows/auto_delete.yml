@@ -20,7 +20,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install ruamel.yaml
+          pip install ruamel.yaml pyyaml  # Installs both ruamel.yaml and PyYAML
 
       - name: Run script to delete past conferences
         run: python .github/workflows/auto_delete_conf.py
