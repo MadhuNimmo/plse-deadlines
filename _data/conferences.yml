@@ -1,10 +1,9 @@
----
 - title: ISSTA
   hindex:
   year: 2025
   id: issta2025
   link: https://conf.researchr.org/home/issta-2025
-  deadline: "2024-10-31 23:59:59"
+  deadline: '2024-10-31 23:59:59'
   timezone: AoE (UTC-12h)
   date: June 25-28, 2024
   place: Trondheim, Norway
@@ -14,99 +13,42 @@
   year: 2025
   id: oopsla2025_1
   link: https://2025.splashcon.org/track/splash-2025-oopsla
-  deadline: "2024-10-15 23:59:59"
+  deadline: '2024-10-15 23:59:59'
   timezone: AoE (UTC-12h)
   date: --
   place: --
   sub: PL
   note: Multiple Deadlines
-  
+
 - title: OOPSLA
   hindex:
   year: 2025
   id: oopsla2025_2
   link: https://2025.splashcon.org/track/splash-2025-oopsla
-  deadline: "2025-03-25 23:59:59"
+  deadline: '2025-03-25 23:59:59'
   timezone: AoE (UTC-12h)
   date: --
   place: --
   sub: PL
   note: Multiple Deadlines
-  
+
 - title: FSE
   hindex:
   year: 2025
   id: fse2025
   link: https://conf.researchr.org/home/fse-2025
-  deadline: "2024-09-12 23:59:59"
+  deadline: '2024-09-12 23:59:59'
   timezone: AoE (UTC-12h)
   date: June 23-27, 2025
   place: Trondheim, Norway
   sub: SE
-  
-- title: POPL
-  hindex:
-  year: 2025
-  id: popl2025
-  link: https://conf.researchr.org/home/POPL-2025
-  deadline: "2024-07-11 23:59:59"
-  timezone: AoE (UTC-12h)
-  date: January 19-25, 2025
-  place: Denver, Colorado, United States
-  sub: PL
-
-- title: ICSE
-  hindex:
-  year: 2024
-  id: icse2024
-  link: https://conf.researchr.org/home/icse-2024
-  deadline: "2023-08-01 23:59:59"
-  timezone: AoE (UTC-12h)
-  date: April 14-20, 2024
-  place: Portugal, Lisbon
-  sub: SE
-
-- title: ICSE
-  hindex:
-  year: 2025
-  id: icse2025_1
-  link: https://conf.researchr.org/home/icse-2025
-  deadline: "2024-03-22 23:59:59"
-  timezone: AoE (UTC-12h)
-  date: April 26-May 4, 2025
-  place: Ottawa, Ontario, Canada
-  sub: SE
-  note: Multiple Deadlines
-
-- title: ICSE
-  hindex:
-  year: 2025
-  id: icse2025_2
-  link: https://conf.researchr.org/home/icse-2025
-  deadline: "2024-08-02 23:59:59"
-  timezone: AoE (UTC-12h)
-  date: April 26-May 4, 2025
-  place: Ottawa, Ontario, Canada
-  sub: SE
-  note: Multiple Deadlines
-
-- title: POPL
-  hindex:
-  year: 2024
-  id: popl2024
-  link: https://popl24.sigplan.org/
-  deadline: "2023-07-11 23:59:59"
-  timezone: AoE (UTC-12h)
-  date: January 14-20, 2024
-  place: London, United Kingdom
-  sub: PL
 
 - title: PLDI
   hindex:
   year: 2024
   id: pldi2024
   link: https://pldi24.sigplan.org/
-  deadline: "2023-11-16 23:59:59"
+  deadline: '2023-11-16 23:59:59'
   timezone: AoE (UTC-12h)
   date: June 24-28, 2024
   place: Copenhagen, Denmark
@@ -117,7 +59,7 @@
   year: 2024
   id: issta2024_1
   link: https://conf.researchr.org/home/issta-2024
-  deadline: "2023-12-15 23:59:59"
+  deadline: '2023-12-15 23:59:59'
   timezone: AoE (UTC-12h)
   date: September 16-20, 2024
   place: Vienna, Austria
@@ -129,7 +71,7 @@
   year: 2024
   id: issta2024_2
   link: https://conf.researchr.org/home/issta-2024
-  deadline: "2024-04-12 23:59:59"
+  deadline: '2024-04-12 23:59:59'
   timezone: AoE (UTC-12h)
   date: September 16-20, 2024
   place: Vienna, Austria
@@ -141,7 +83,7 @@
   year: 2024
   id: ecoop2024_1
   link: https://conf.researchr.org/home/ecoop-2024
-  deadline: "2024-01-17 23:59:59"
+  deadline: '2024-01-17 23:59:59'
   timezone: AoE (UTC-12h)
   date: September 16-20, 2024
   place: Vienna, Austria
@@ -153,19 +95,19 @@
   year: 2024
   id: ecoop2024_2
   link: https://conf.researchr.org/home/ecoop-2024
-  deadline: "2024-04-17 23:59:59"
+  deadline: '2024-04-17 23:59:59'
   timezone: AoE (UTC-12h)
   date: September 16-20, 2024
   place: Vienna, Austria
   sub: PL
   note: Multiple Deadlines
-  
+
 - title: ASE
   hindex:
   year: 2024
   id: ase2024
   link: https://conf.researchr.org/home/ase-2024
-  deadline: "2024-06-07 23:59:59"
+  deadline: '2024-06-07 23:59:59'
   timezone: AoE (UTC-12h)
   date: October 27-November 1, 2024
   place: Sacramento, California, United States
@@ -176,21 +118,10 @@
   year: 2024
   id: fse2024
   link: https://conf.researchr.org/home/fse-2024
-  deadline: "2023-09-28 23:59:59"
+  deadline: '2023-09-28 23:59:59'
   timezone: AoE (UTC-12h)
   date: July 15-19, 2024
   place: Porto de Galinhas, Brazil, Brazil
-  sub: SE
-
-- title: MSR
-  hindex:
-  year: 2024
-  id: msr2024
-  link: https://2024.msrconf.org/
-  deadline: "2023-11-17 23:59:59"
-  timezone: AoE (UTC-12h)
-  date: April 15-16, 2024
-  place: Portugal, Lisbon
   sub: SE
 
 - title: EASE
@@ -198,21 +129,10 @@
   year: 2024
   id: ease2024
   link: https://conf.researchr.org/home/ease-2024
-  deadline: "2024-01-18 23:59:59"
+  deadline: '2024-01-18 23:59:59'
   timezone: AoE (UTC-12h)
   date: June 18-21, 2024
   place: Salerno, Italy
-  sub: SE
-
-- title: SANER
-  hindex:
-  year: 2024
-  id: saner2024
-  link: https://conf.researchr.org/home/saner-2024
-  deadline: "2023-10-29 23:59:59"
-  timezone: AoE (UTC-12h)
-  date: March 12-15, 2024
-  place: Rovaniemi , Finland
   sub: SE
 
 - title: ICSME
@@ -220,7 +140,7 @@
   year: 2024
   id: icsme2024
   link: https://conf.researchr.org/home/icsme-2024
-  deadline: "2024-04-11 23:59:59"
+  deadline: '2024-04-11 23:59:59'
   timezone: AoE (UTC-12h)
   date: October 06-11, 2024
   place: Flagstaff, AZ , USA
@@ -231,53 +151,18 @@
   year: 2024
   id: re2024
   link: https://conf.researchr.org/home/RE-2024
-  deadline: "2024-01-24 23:59:59"
+  deadline: '2024-01-24 23:59:59'
   timezone: AoE (UTC-12h)
   date: June 24-28, 2024
   place: Reykjavík, Iceland
   sub: SE
-
-- title: CHASE
-  hindex:
-  year: 2024
-  id: chase2024
-  link: https://conf.researchr.org/home/chase-2024
-  deadline: "2023-11-10 23:59:59"
-  timezone: AoE (UTC-12h)
-  date: April 14-15, 2024
-  place: Lisbon, Portugal
-  sub: SE
-
-- title: TECHDEBT
-  hindex:
-  year: 2024
-  id: techdebt2024
-  link: https://conf.researchr.org/home/TechDebt-2024
-  deadline: "2023-11-24 23:59:59"
-  timezone: AoE (UTC-12h)
-  date: April 14-15, 2024
-  place: Lisbon, Portugal
-  sub: SE
-  note: Co-located with ICSE 2024
-
-- title: ICPC
-  hindex:
-  year: 2024
-  id: icpc2024
-  link: https://conf.researchr.org/home/icpc-2024
-  deadline: "2023-11-03 23:59:59"
-  timezone: AoE (UTC-12h)
-  date: April 14-15, 2024
-  place: Lisbon, Portugal
-  sub: SE
-  note: Co-located with ICSE 2024
 
 - title: SPLASH
   hindex:
   year: 2024
   id: splash2024_1
   link: https://2024.splashcon.org/
-  deadline: "2023-10-20 23:59:59"
+  deadline: '2023-10-20 23:59:59'
   timezone: AoE (UTC-12h)
   date: October 20-25, 2024
   place: Pasadena, California, United States
@@ -289,7 +174,7 @@
   year: 2024
   id: splash2024_2
   link: https://2024.splashcon.org/
-  deadline: "2024-04-05 23:59:59"
+  deadline: '2024-04-05 23:59:59'
   timezone: AoE (UTC-12h)
   date: October 20-25, 2024
   place: Pasadena, California, United States
@@ -301,7 +186,7 @@
   year: 2024
   id: models2024
   link: https://conf.researchr.org/home/models-2024
-  deadline: "2024-03-28 23:59:59"
+  deadline: '2024-03-28 23:59:59'
   timezone: AoE (UTC-12h)
   date: September 22-27, 2024
   place: Linz, Austria
