@@ -2,8 +2,8 @@ name: Auto Delete Past Conferences
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 0 * * *'  # This line sets the action to run automatically daily at midnight
+  # schedule:
+  #  - cron: '0 0 * * *'  # This line sets the action to run automatically daily at midnight
 
 jobs:
   delete-past-conferences:
