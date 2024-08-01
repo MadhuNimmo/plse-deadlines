@@ -3,23 +3,12 @@
   year: 2025
   id: ase2025
   link: https://conf.researchr.org/home/ase-2025
-  deadline: ---
+  deadline: '---'
   timezone: AoE (UTC-12h)
   date: November 16-20, 2025
   place: Seoul, South Korea
   sub: SE
-  
-- title: ISSTA
-  hindex:
-  year: 2025
-  id: issta2025
-  link: https://conf.researchr.org/home/issta-2025
-  deadline: '2024-10-31 23:59:59'
-  timezone: AoE (UTC-12h)
-  date: June 25-28, 2024
-  place: Trondheim, Norway
-  sub: PL
-  
+
 - title: OOPSLA
   hindex:
   year: 2025
@@ -43,28 +32,6 @@
   place: --
   sub: PL
   note: Multiple Deadlines
-
-- title: FSE
-  hindex:
-  year: 2025
-  id: fse2025
-  link: https://conf.researchr.org/home/fse-2025
-  deadline: '2024-09-12 23:59:59'
-  timezone: AoE (UTC-12h)
-  date: June 23-27, 2025
-  place: Trondheim, Norway
-  sub: SE
-
-- title: PLDI
-  hindex:
-  year: 2024
-  id: pldi2024
-  link: https://pldi24.sigplan.org/
-  deadline: '2023-11-16 23:59:59'
-  timezone: AoE (UTC-12h)
-  date: June 24-28, 2024
-  place: Copenhagen, Denmark
-  sub: PL
 
 - title: ISSTA
   hindex:
@@ -136,17 +103,6 @@
   place: Porto de Galinhas, Brazil, Brazil
   sub: SE
 
-- title: EASE
-  hindex:
-  year: 2024
-  id: ease2024
-  link: https://conf.researchr.org/home/ease-2024
-  deadline: '2024-01-18 23:59:59'
-  timezone: AoE (UTC-12h)
-  date: June 18-21, 2024
-  place: Salerno, Italy
-  sub: SE
-
 - title: ICSME
   hindex:
   year: 2024
@@ -156,17 +112,6 @@
   timezone: AoE (UTC-12h)
   date: October 06-11, 2024
   place: Flagstaff, AZ , USA
-  sub: SE
-
-- title: RE
-  hindex:
-  year: 2024
-  id: re2024
-  link: https://conf.researchr.org/home/RE-2024
-  deadline: '2024-01-24 23:59:59'
-  timezone: AoE (UTC-12h)
-  date: June 24-28, 2024
-  place: Reykjavík, Iceland
   sub: SE
 
 - title: SPLASH
