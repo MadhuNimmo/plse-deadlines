@@ -24,11 +24,3 @@ jobs:
 
       - name: Run script to delete past conferences
         run: python .github/workflows/auto_delete_conf.py
-
-      - name: Commit and push if changes
-        run: |
-          git config --global user.email "mchak009@ucr.edu"
-          git config --global user.name "Madhurima Chakraborty"
-          git add _data/conferences.yml
-          git commit -m "Auto-delete past conferences" || echo "No changes to commit"
-          git push
