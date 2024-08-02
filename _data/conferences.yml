@@ -1,3 +1,27 @@
+- title: ICSE
+  hindex:
+  year: 2025
+  id: icse2025_1
+  link: https://conf.researchr.org/home/icse-2025
+  deadline: "2024-03-22 23:59:59"
+  timezone: AoE (UTC-12h)
+  date: April 26-May 4, 2025
+  place: Ottawa, Ontario, Canada
+  sub: SE
+  note: Multiple Deadlines
+
+- title: ICSE
+  hindex:
+  year: 2025
+  id: icse2025_2
+  link: https://conf.researchr.org/home/icse-2025
+  deadline: "2024-08-02 23:59:59"
+  timezone: AoE (UTC-12h)
+  date: April 26-May 4, 2025
+  place: Ottawa, Ontario, Canada
+  sub: SE
+  note: Multiple Deadlines
+
 - title: FSE
   hindex:
   year: 2025
