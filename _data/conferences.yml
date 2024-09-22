@@ -1,3 +1,14 @@
+- title: PLDI
+  hindex:
+  year: 2025
+  id: pldi2025
+  link: https://pldi25.sigplan.org
+  deadline: "2024-11-14 23:59:59"
+  timezone: AoE (UTC-12h)
+  date: June 16-June 20, 2025
+  place: Seoul, South Korea
+  sub: PL
+
 - title: ICSE
   hindex:
   year: 2025
@@ -42,7 +53,7 @@
   timezone: AoE (UTC-12h)
   date: June 25-28, 2025
   place: Trondheim, Norway
-  sub: PL
+  sub: SE
   
 - title: OOPSLA
   hindex:
