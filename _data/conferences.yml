@@ -1,3 +1,49 @@
+- title: POPL
+  hindex:
+  year: 2026
+  id: popl2026
+  link: https://conf.researchr.org/home/POPL-2026
+  deadline: "2025-07-10 23:59:59"
+  timezone: AoE (UTC-12h)
+  date: January 11-January 17, 2026
+  place: Rennes, France
+  sub: PL
+
+- title: ICSE
+  hindex:
+  year: 2026
+  id: icse2026_1
+  link: https://conf.researchr.org/home/icse-2026
+  deadline: "2025-03-14 23:59:59"
+  timezone: AoE (UTC-12h)
+  date: April 12-April 18, 2026
+  place: Rio De Janiero, Brazil
+  sub: SE
+  note: Multiple Deadlines
+
+- title: ICSE
+  hindex:
+  year: 2026
+  id: icse2026_2
+  link: https://conf.researchr.org/home/icse-2026
+  deadline: "2025-07-18 23:59:59"
+  timezone: AoE (UTC-12h)
+  date: April 12-April 18, 2026
+  place: Rio De Janiero, Brazil
+  sub: SE
+  note: Multiple Deadlines
+
+- title: ASE
+  hindex:
+  year: 2025
+  id: ase2025
+  link: https://conf.researchr.org/home/ase-2025
+  deadline: '2025-05-30 23:59:59'
+  timezone: AoE (UTC-12h)
+  date: November 16-November 20, 2025
+  place: Seoul, South Korea
+  sub: SE
+
 - title: PLDI
   hindex:
   year: 2025
